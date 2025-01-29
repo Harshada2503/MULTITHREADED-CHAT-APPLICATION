@@ -45,6 +45,10 @@ Key Features of the Chat Application
 
 
 5. Error Handling: The system gracefully manages client disconnections and network errors.
+
+#OUTPUT OF THE TASK 
+
+![Image](https://github.com/user-attachments/assets/e3044431-0586-491e-8891-478197d4c383)
  
 
 
